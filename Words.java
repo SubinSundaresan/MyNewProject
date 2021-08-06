@@ -50,7 +50,7 @@ Stringlengths obj2= new Stringlengths();
                 counter = counter+1;
             }else{
                 continue;
-            }}
+            }}System.out.println("genkin");//added a new change to commit
         System.out.println("letter 'c' repeated "+counter+" times");}}
 
 

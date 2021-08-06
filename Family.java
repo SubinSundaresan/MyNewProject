@@ -52,5 +52,5 @@ public class Family {
         salary.getTotalFees();
         salary.getSavings();
         details.congrats();
-        System.out.println("subin");//new changes
+        System.out.println("genkin");//added a new change to commit
     }}
